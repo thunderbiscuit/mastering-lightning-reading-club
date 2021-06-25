@@ -1,6 +1,8 @@
 <center>
 <img src="./lightning.png" width="70px" />
 <h1>Mastering Lightning Reading Club</h1>
+</center>
+<br/>
 
 _Proposed Schedule_
 
@@ -14,5 +16,3 @@ _Proposed Schedule_
 | Week 6 <br/> _August ..._ | [Channel Construction in Detail](https://github.com/lnbook/lnbook/blob/develop/channel-construction.asciidoc) | Resource 1 |
 | Week 7 <br/> _August ..._ | [Channel operation with HTLCs and Statemachine](https://github.com/lnbook/lnbook/blob/develop/channel-operation.asciidoc) | Resource 1 |
 | Week 8 <br/> _August ..._ | [Payment Path Finding](https://github.com/lnbook/lnbook/blob/develop/path-finding.asciidoc) | Resource 1 |
-
-</center>
