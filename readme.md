@@ -1,6 +1,7 @@
 <center>
 <img src="./lightning.png" width="70px" />
-<h1>Mastering Lightning Reading Club</h1>
+<h1><em>Mastering the Lightning Network</em></h1>
+<h1>Reading Club</h1>
 </center>
 <br/>
 
