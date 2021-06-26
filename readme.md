@@ -16,3 +16,8 @@ _Proposed Schedule_
 | Week 6 <br/> _August ..._ | [Channel Construction in Detail](https://github.com/lnbook/lnbook/blob/develop/channel-construction.asciidoc) | Other Resource |
 | Week 7 <br/> _August ..._ | [Channel operation with HTLCs and Statemachine](https://github.com/lnbook/lnbook/blob/develop/channel-operation.asciidoc) | Other Resource |
 | Week 8 <br/> _August ..._ | [Payment Path Finding](https://github.com/lnbook/lnbook/blob/develop/path-finding.asciidoc) | Other Resource |
+
+<br/>
+<hr/>
+
+Propose changes [here](https://github.com/thunderbiscuit/mastering-lightning-reading-club).
