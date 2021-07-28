@@ -6,16 +6,17 @@
 
 _Meetings are on Tuesdays @17:00 UTC_
 
-| Week      | Chapters | Other Resources |
-| :-------- | :----------- | :------------- |
-| Week 1 <br/> _July 20_   | [Introduction](https://github.com/lnbook/lnbook/blob/develop/01_introduction.asciidoc) <br/> [Getting Started](https://github.com/lnbook/lnbook/blob/develop/02_getting_started.asciidoc) | [Bitcoin Fundamentals Review](https://github.com/lnbook/lnbook/blob/develop/appendix-bitcoin-fundamentals-review.asciidoc) |
-| Week 2 <br/> _July 27_ | [LN Basics (How LN Works)](https://github.com/lnbook/lnbook/blob/develop/03_how_ln_works.asciidoc) | |
-| Week 3 <br/> _August 3_ | [Nodes (LN Clients)](https://github.com/lnbook/lnbook/blob/develop/04_node_client.asciidoc) | |
-| Week 4 <br/> _August 10_ | [Operating a Node](https://github.com/lnbook/lnbook/blob/develop/05_node_operations.asciidoc) | |
-| Week 5 <br/> _August 17_ | [Lightning Architecture](https://github.com/lnbook/lnbook/blob/develop/06_lightning_architecture.asciidoc) <br/> [Routing (HTLCs)](https://github.com/lnbook/lnbook/blob/develop/07_routing_htlcs.asciidoc) | |
-| Week 6 <br/> _August 24_ | [Channel Construction in Detail](https://github.com/lnbook/lnbook/blob/develop/channel-construction.asciidoc) | |
-| Week 7 <br/> _August 31_ | [Channel operation with HTLCs and Statemachine](https://github.com/lnbook/lnbook/blob/develop/channel-operation.asciidoc) | |
-| Week 8 <br/> _September 7_ | [Payment Path Finding](https://github.com/lnbook/lnbook/blob/develop/path-finding.asciidoc) | |
+| Week      | Chapters | Metadata | Other Resources|
+| :-------- | :----------- | :------------- | :------- |
+| Week 1 <br/> _July 20_   | [Introduction](https://github.com/lnbook/lnbook/blob/develop/01_introduction.asciidoc) <br/> [Getting Started](https://github.com/lnbook/lnbook/blob/develop/02_getting_started.asciidoc) | [Meeting Notes](https://github.com/BitcoinDesign/Meta/issues/125) <br/> [Youtube Link](https://www.youtube.com/watch?v=fviy7N4ppQY) <br/> [BitcoinTV Link](https://bitcointv.com/videos/watch/84a1695d-a031-4fd4-a987-60cfd9e9027f) | [Bitcoin Fundamentals Review](https://github.com/lnbook/lnbook/blob/develop/appendix-bitcoin-fundamentals-review.asciidoc) |
+| Week 2 <br/> _July 27_ | [LN Basics (How LN Works)](https://github.com/lnbook/lnbook/blob/develop/03_how_ln_works.asciidoc) | [Presentation](https://sbddesign.github.io/how-ln-works/) <br/> [Meeting Notes](https://github.com/BitcoinDesign/Meta/issues/126) <br/> [Youtube Link](https://www.youtube.com/watch?v=2wbMSrMEgbY&feature=youtu.be) <br/> [BitcoinTV Link](https://bitcointv.com/videos/watch/a72ed7eb-db64-4372-8f10-0a1b9a83c348) | |
+| Week 3 <br/> _August 3_ | [LN Basics (How LN Works)](https://github.com/lnbook/lnbook/blob/develop/03_how_ln_works.asciidoc) | [Meeting Notes]() | |
+| Week 4 <br/> _August 10_ | [Nodes (LN Clients)](https://github.com/lnbook/lnbook/blob/develop/04_node_client.asciidoc) | |
+| Week 5 <br/> _August 17_ | [Operating a Node](https://github.com/lnbook/lnbook/blob/develop/05_node_operations.asciidoc) | |
+| Week 6 <br/> _August 24_ | [Lightning Architecture](https://github.com/lnbook/lnbook/blob/develop/06_lightning_architecture.asciidoc) <br/> [Routing (HTLCs)](https://github.com/lnbook/lnbook/blob/develop/07_routing_htlcs.asciidoc) | |
+| Week 7 <br/> _August 31_ | [Channel Construction in Detail](https://github.com/lnbook/lnbook/blob/develop/channel-construction.asciidoc) | |
+| Week 8 <br/> _September 7_ | [Channel operation with HTLCs and Statemachine](https://github.com/lnbook/lnbook/blob/develop/channel-operation.asciidoc) | |
+| Week 9 <br/> _September 14_ | [Payment Path Finding](https://github.com/lnbook/lnbook/blob/develop/path-finding.asciidoc) | |
 
 <br/>
 
