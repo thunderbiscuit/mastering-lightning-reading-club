@@ -14,9 +14,9 @@ _Meetings are on Tuesdays @17:00 UTC_
 | Week 4 <br/> _August 10_ | [Nodes (LN Clients)](https://github.com/lnbook/lnbook/blob/develop/04_node_client.asciidoc) | [Meeting Notes](https://github.com/BitcoinDesign/Meta/issues/130) <br/> [Bitcoin TV Link](https://bitcointv.com/videos/watch/383b8c6c-a58f-4c04-9811-4d2cb2f80632) <br/> [Youtube Link](https://www.youtube.com/watch?v=QUdF_rMByeY) | [Raj's Helper Functions (script)](https://github.com/rajarshimaitra/lnbook/blob/c8285ccb2bf36200fff900a00e6098cf867856c4/code/docker/circular.sh) <br/> [Raj's Helper Functions (branch)](https://github.com/rajarshimaitra/lnbook/tree/ln-fun) |
 | Week 5 <br/> _August 17_ | [Operating a Node](https://github.com/lnbook/lnbook/blob/develop/05_node_operations.asciidoc) | [Meeting Notes](https://github.com/BitcoinDesign/Meta/issues/133) |
 | Week 6 <br/> _August 24_ | [Lightning Architecture](https://github.com/lnbook/lnbook/blob/develop/06_lightning_architecture.asciidoc) <br/> [Payment Channels](https://github.com/lnbook/lnbook/blob/develop/07_payment_channels.asciidoc) | [Meeting Notes](https://github.com/BitcoinDesign/Meta/issues/135) |
-| Week 7 <br/> _August 31_ | [Routing on a Network of Payment Channels](https://github.com/lnbook/lnbook/blob/develop/08_routing_htlcs.asciidoc) | |
-| Week 8 <br/> _September 7_ | [TBD]() | |
-| Week 9 <br/> _September 14_ | [TBD]() | |
+| Week 7 <br/> _August 31_ | [Routing on a Network of Payment Channels](https://github.com/lnbook/lnbook/blob/develop/08_routing_htlcs.asciidoc) | [Meeting Notes](https://github.com/BitcoinDesign/Meta/issues/141) | [Bitcoin TV Link](https://bitcointv.com/videos/watch/3b8c9a66-13c6-4ec2-a536-cf5c2c328259) <br/> [Youtube Link](https://www.youtube.com/watch?v=J8BwpZrg0qQ) |
+| Week 8 <br/> _September 7_ | [Channel Operation and Payment Forwarding](https://github.com/lnbook/lnbook/blob/develop/09_channel_operation.asciidoc) | [Meeting Notes](https://github.com/BitcoinDesign/Meta/issues/142) |
+| Week 9 <br/> _September 14_ | [Onion Routing](https://github.com/lnbook/lnbook/blob/develop/10_onion_routing.asciidoc) | |
 
 <br/>
 
