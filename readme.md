@@ -17,6 +17,12 @@ _Meetings are on Tuesdays @17:00 UTC_
 | Week 7 <br/> _August 31_ | [Routing on a Network of Payment Channels](https://github.com/lnbook/lnbook/blob/develop/08_routing_htlcs.asciidoc) | [Meeting Notes](https://github.com/BitcoinDesign/Meta/issues/141) | [Bitcoin TV Link](https://bitcointv.com/videos/watch/3b8c9a66-13c6-4ec2-a536-cf5c2c328259) <br/> [Youtube Link](https://www.youtube.com/watch?v=J8BwpZrg0qQ) |
 | Week 8 <br/> _September 7_ | [Channel Operation and Payment Forwarding](https://github.com/lnbook/lnbook/blob/develop/09_channel_operation.asciidoc) | [Meeting Notes](https://github.com/BitcoinDesign/Meta/issues/142) |
 | Week 9 <br/> _September 14_ | [Onion Routing](https://github.com/lnbook/lnbook/blob/develop/10_onion_routing.asciidoc) | |
+| Week 10 <br/> _September 21_ | [Gossip and the channel graph](https://github.com/lnbook/lnbook/blob/develop/11_gossip_channel_graph.asciidoc) | |
+| Week 11 <br/> _September 28_ | [Path Finding and Payment Delivery](https://github.com/lnbook/lnbook/blob/develop/12_path_finding.asciidoc) | |
+| Week 12 <br/> _October 5_ | [Wire Protocol: Framing & Extensibility](https://github.com/lnbook/lnbook/blob/develop/13_wire_protocol.asciidoc) | |
+| Week 13 <br/> _October 12_ | [Lightning’s Encrypted Message Transport (Brontide)](https://github.com/lnbook/lnbook/blob/develop/14_encrypted_transport.asciidoc) | |
+| Week 14 <br/> _October 19_ | [Lightning Payment Requests](https://github.com/lnbook/lnbook/blob/develop/15_payment_requests.asciidoc) | |
+| Week 15 <br/> _October 26_ | [Security and Privacy of the Lightning Network](https://github.com/lnbook/lnbook/blob/develop/16_security_privacy_ln.asciidoc) | |
 
 <br/>
 
